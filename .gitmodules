@@ -1,0 +1,12 @@
+[submodule "Functional Javascript"]
+	path = Functional Javascript
+	url = git@github.com:CWDG/Functional-JavaScript-Talk.git
+[submodule "Rails Sessions"]
+	path = Rails Sessions
+	url = git@github.com:CWDG/Rails-Session-Talk.git
+[submodule "Git"]
+	path = Git
+	url = git@github.com:CWDG/Git-Presentation.git
+[submodule "JS Module Patterns"]
+	path = JS Module Patterns
+	url = git@github.com:CWDG/CWD-JS-Module-Pattern-Talk.git
